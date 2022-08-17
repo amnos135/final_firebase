@@ -349,4 +349,8 @@ p {
 }
 
 
+img{
+  display: none;
+}
+
 </style>
